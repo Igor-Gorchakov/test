@@ -1,2 +1,2 @@
 hello common
-only master
+only branch1
