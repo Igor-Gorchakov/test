@@ -1,1 +1,3 @@
 only branch1
+new line1
+error message3 in branch1
