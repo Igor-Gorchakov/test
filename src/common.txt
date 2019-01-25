@@ -1,2 +1,0 @@
-hello common
-only branch1

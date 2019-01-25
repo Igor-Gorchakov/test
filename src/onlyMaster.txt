@@ -1,4 +1,1 @@
 only master
-only master1
-only master2
-only master from master
